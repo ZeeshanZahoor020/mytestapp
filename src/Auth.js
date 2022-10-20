@@ -25,7 +25,7 @@ export default function (props) {
           <h3 className="Auth-form-title">Sign In</h3>
           <div className="form-group mt-3">
             <label>Email address</label>
-            <input
+            <input 
               type="email"
               name="username"
               className="form-control mt-1"
