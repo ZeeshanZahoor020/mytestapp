@@ -31,7 +31,7 @@ export default function (props) {
               className="form-control mt-1"
               placeholder="Enter email"
               autocomplete="username"
-            /> 
+            />      
           </div>
           <div className="form-group mt-3">
             <label>Password</label>
